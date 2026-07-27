@@ -12,15 +12,15 @@ Site de captação de leads B2B para o Gonzaga Junior, representante comercial d
 
 <table>
 <tr>
-<td width="60%"><img src="docs/screenshots/hero-desktop.png" alt="Hero da home em desktop, com vídeo real de operação e endosso da marca Sal Potiguar"></td>
-<td width="40%"><img src="docs/screenshots/hero-mobile.png" alt="Hero da home em mobile"></td>
+<td width="60%"><img src="docs/screenshots/hero-desktop.jpg" alt="Hero da home em desktop, com foto real de operação e endosso da marca Sal Potiguar"></td>
+<td width="40%"><img src="docs/screenshots/hero-mobile.jpg" alt="Hero da home em mobile"></td>
 </tr>
 <tr>
-<td colspan="2"><img src="docs/screenshots/parallax-origem.png" alt="Seção Produzido no Rio Grande do Norte, com efeito de parallax na salina"></td>
+<td colspan="2"><img src="docs/screenshots/parallax-logistica.jpg" alt="Seção Logística Nacional, com efeito de parallax no caminhão"></td>
 </tr>
 <tr>
-<td width="50%"><img src="docs/screenshots/produtos.png" alt="Cards de produtos: refinado, moído iodado e especial para churrasco"></td>
-<td width="50%"><img src="docs/screenshots/chatbot.png" alt="Assistente de atendimento guiado (chatbot) em conversa"></td>
+<td width="50%"><img src="docs/screenshots/produtos.jpg" alt="Cards de produtos: refinado, moído iodado e especial para churrasco"></td>
+<td width="50%"><img src="docs/screenshots/chatbot.jpg" alt="Assistente de atendimento guiado (chatbot) em conversa"></td>
 </tr>
 </table>
 

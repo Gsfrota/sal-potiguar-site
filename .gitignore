@@ -1,0 +1,11 @@
+# Lixo de execução do Lighthouse (caminho Windows malformado criado no WSL)
+C:*
+lighthouse.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.vercel
+.env*
